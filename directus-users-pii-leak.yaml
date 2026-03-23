@@ -1,4 +1,4 @@
-id: CVE-2025-55746
+id: directus-cms-pii-leak
 
 info:
   name: Directus User PII Leak
